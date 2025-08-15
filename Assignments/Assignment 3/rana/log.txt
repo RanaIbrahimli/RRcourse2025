@@ -1,0 +1,17 @@
+*   a0d0e4b (HEAD -> feature1, origin/main, origin/feature1, origin/HEAD, main) Merge hotfix into main
+|\  
+| * c59565c (origin/hotfix, hotfix) hotfix: apply critical patch
+* | e0be93d main: new commit after hotfix rebase
+|/  
+* 5973576 main: new commit after hotfix rebase
+*   58d322a Merge branch 'feature1'
+|\  
+| * ddc39dc dev2: add fifth line in feature1 branch
+| * a1fbe16 Dev2 adds dev2-feature1.txt to feature1 branch
+|/  
+* b9ffa35 main: new commit after hotfix rebase
+* 0ede04a dev2: add third line to README
+* 9bfe5f2 dev1: add second line to README
+* d839c46 dev1: initialize repo with README
+* b17e040 Dev2 adds dev2-main.txt to main branch
+* cc19db2 Add feature.txt in feature1 branch
